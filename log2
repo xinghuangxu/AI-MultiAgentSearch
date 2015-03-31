@@ -1,0 +1,241 @@
+Starting on 3-30 at 17:04:42
+
+Question q2
+===========
+
+Left , 1.0
+*** PASS: test_cases\q2\0-eval-function-lose-states-1.test
+Right , 1.0
+*** PASS: test_cases\q2\0-eval-function-lose-states-2.test
+Left , 1.0
+*** PASS: test_cases\q2\0-eval-function-win-states-1.test
+Right , 1.0
+*** PASS: test_cases\q2\0-eval-function-win-states-2.test
+Center , 4.0
+*** PASS: test_cases\q2\0-lecture-6-tree.test
+pacLeft , 3.0
+*** PASS: test_cases\q2\0-small-tree.test
+Left , -3.0
+*** PASS: test_cases\q2\1-1-minmax.test
+Right , -2.99
+*** PASS: test_cases\q2\1-2-minmax.test
+Left , 4.01
+*** PASS: test_cases\q2\1-3-minmax.test
+Right , 4.0
+*** PASS: test_cases\q2\1-4-minmax.test
+Right , 3.01
+*** PASS: test_cases\q2\1-5-minmax.test
+Left , 3.0
+*** PASS: test_cases\q2\1-6-minmax.test
+Left , -1.99
+*** PASS: test_cases\q2\1-7-minmax.test
+Right , -2.0
+*** PASS: test_cases\q2\1-8-minmax.test
+Left , -4.0
+*** PASS: test_cases\q2\2-1a-vary-depth.test
+Left , -3.0
+*** PASS: test_cases\q2\2-1b-vary-depth.test
+Right , -3.99
+*** PASS: test_cases\q2\2-2a-vary-depth.test
+Left , -3.0
+*** PASS: test_cases\q2\2-2b-vary-depth.test
+Left , 5.01
+*** PASS: test_cases\q2\2-3a-vary-depth.test
+Left , 5.01
+*** PASS: test_cases\q2\2-3b-vary-depth.test
+Right , 5.0
+*** PASS: test_cases\q2\2-4a-vary-depth.test
+Left , 4.99
+*** PASS: test_cases\q2\2-4b-vary-depth.test
+Left , 9.0
+*** PASS: test_cases\q2\2-one-ghost-3level.test
+Left , 5.0
+*** PASS: test_cases\q2\3-one-ghost-4level.test
+Left , 3.0
+*** PASS: test_cases\q2\4-two-ghosts-3level.test
+Left , 8.0
+*** PASS: test_cases\q2\5-two-ghosts-4level.test
+Left , 10.0
+*** PASS: test_cases\q2\6-tied-root.test
+Left , 10.0
+*** PASS: test_cases\q2\7-1a-check-depth-one-ghost.test
+Center , 10.0
+*** PASS: test_cases\q2\7-1b-check-depth-one-ghost.test
+Right , 8.0
+*** PASS: test_cases\q2\7-1c-check-depth-one-ghost.test
+Left , 10.0
+*** PASS: test_cases\q2\7-2a-check-depth-two-ghosts.test
+Center , 10.0
+*** PASS: test_cases\q2\7-2b-check-depth-two-ghosts.test
+Right , 8.0
+*** PASS: test_cases\q2\7-2c-check-depth-two-ghosts.test
+*** Running MinimaxAgent on smallClassic 1 time(s).
+West , 18.0
+West , 27.0
+West , 36.0
+West , 45.0
+West , 54.0
+West , 63.0
+West , 72.0
+West , 81.0
+North , 90.0
+North , 99.0
+North , 108.0
+North , 117.0
+Stop , 116.0
+East , 115.0
+West , 114.0
+South , 113.0
+South , 112.0
+South , 111.0
+South , 110.0
+East , 109.0
+East , 108.0
+East , 117.0
+North , 126.0
+North , 135.0
+West , 324.0
+East , 333.0
+North , 342.0
+East , 351.0
+East , 360.0
+North , 369.0
+West , 378.0
+West , 387.0
+West , 386.0
+West , 385.0
+West , 384.0
+Stop , 383.0
+Stop , 382.0
+Stop , 381.0
+Stop , 380.0
+Stop , 379.0
+Stop , 378.0
+Stop , 377.0
+Stop , 376.0
+Stop , 375.0
+Stop , 374.0
+Stop , 373.0
+Stop , 372.0
+Stop , 371.0
+South , 370.0
+South , 369.0
+South , 368.0
+South , 367.0
+East , 366.0
+East , 365.0
+East , 364.0
+East , 363.0
+East , 372.0
+North , 381.0
+North , 390.0
+East , 399.0
+East , 408.0
+East , 417.0
+East , 426.0
+East , 435.0
+East , 444.0
+East , 453.0
+North , 462.0
+East , 471.0
+East , 480.0
+North , 489.0
+West , 498.0
+West , 497.0
+Stop , 496.0
+Stop , 495.0
+East , 494.0
+West , 493.0
+South , 492.0
+South , 501.0
+South , 510.0
+South , 519.0
+West , 528.0
+West , 537.0
+West , 536.0
+West , 535.0
+West , 534.0
+West , 533.0
+West , 532.0
+West , 531.0
+West , 530.0
+West , 529.0
+West , 528.0
+West , 527.0
+Stop , 526.0
+Stop , 525.0
+North , 524.0
+North , 523.0
+North , 522.0
+North , 521.0
+East , 520.0
+East , 519.0
+East , 518.0
+East , 517.0
+East , 516.0
+South , 515.0
+North , 514.0
+West , 513.0
+West , 512.0
+West , 511.0
+West , 510.0
+West , 509.0
+Stop , 508.0
+Stop , 507.0
+Stop , 506.0
+Stop , 505.0
+Stop , 504.0
+Stop , 503.0
+Stop , 502.0
+Stop , 501.0
+South , 500.0
+South , 499.0
+South , 498.0
+South , 497.0
+East , 496.0
+East , 495.0
+East , 494.0
+East , 493.0
+East , 492.0
+East , 491.0
+East , 490.0
+East , 489.0
+East , 488.0
+East , 487.0
+East , 486.0
+East , 495.0
+East , 504.0
+East , 513.0
+East , 522.0
+East , 531.0
+East , 540.0
+North , 549.0
+North , 558.0
+North , 567.0
+North , 576.0
+West , 585.0
+West , 84.0
+West , 84.0
+Pacman died! Score: 84
+Average Score: 84.0
+Scores:        84.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+*** Finished running MinimaxAgent on smallClassic after 1 seconds.
+*** Won 0 out of 1 games. Average score: 84.000000 ***
+*** PASS: test_cases\q2\8-pacman-game.test
+
+### Question q2: 5/5 ###
+
+
+Finished at 17:04:44
+
+Provisional grades
+==================
+Question q2: 5/5
+------------------
+Total: 5/5
+
+Your grades are NOT yet registered.  To register your grades, make sure
+to follow your instructor's guidelines to receive credit on your project.
+
